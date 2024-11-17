@@ -12,7 +12,8 @@ The main shell commands covered in the **Shell 01** project are:
 - **`cat`** - Displays and manipulates text files, used for transforming, sorting, or filtering content.
 - **Redirections and pipes** (`|`, `>`): Allow combining commands, saving outputs, or modifying information, such as in sorting or calculations (various exercises).
 
-Exercises:
+<details>
+	<sumary>Exercises:</sumary>
 
 - [ex00:](https://github.com/vinislima/42sp_piscine_shell00/tree/main/ex00)
     
@@ -31,3 +32,4 @@ Exercises:
     ```bash
     git log --format='%H' -n5
     ```
+</details>
